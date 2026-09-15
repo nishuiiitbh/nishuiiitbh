@@ -131,6 +131,8 @@
 - ☁️ Deployed on AWS with automated CI/CD pipelines
 - 🔄 Enabled streaming AI responses for real-time interaction
 
+- 🔗 [View Repository](https://github.com/nishuiiitbh/Tarwix)
+
 ---
 
 ## 💬 Talkify — Real-Time Chat Application
