@@ -1,153 +1,227 @@
 <h1 align="center">Hi, I'm Nishu Kumari</h1>
 
-<h3 align="center">Full Stack Web Developer | MERN Stack | AI/ML | DSA</h3>
+<h3 align="center">Full Stack Web Developer • MERN • AI/ML • DSA</h3>
 
 <p align="center">
-  B.Tech ECE Student at IIIT Bhagalpur | Building scalable full-stack and AI-powered applications
+  B.Tech ECE @ IIIT Bhagalpur | Building scalable full-stack & AI-powered applications
 </p>
 
+<p align="center">
+  <a href="mailto:kumarinishuiiitbh@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/nishu-kumari-360144300/">💼 LinkedIn</a> •
+  <a href="https://github.com/nishuiiitbh">🐙 GitHub</a>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech in Electronics and Communication Engineering at IIIT Bhagalpur
-- 💻 Full Stack Web Developer with hands-on experience in MERN Stack
-- 🤖 Interested in AI/ML, Generative AI and Multi-Agent Systems
-- 🧩 Solved 450+ DSA problems across competitive programming platforms
-- 🚀 Interested in Software Engineering and Full-Stack Development
-- 🌱 Currently exploring scalable backend systems, AI agents and cloud technologies
+🎓 B.Tech Electronics & Communication Engineering student at **IIIT Bhagalpur**
 
----
+💻 Full Stack Web Developer focused on **MERN Stack, REST APIs & scalable backend systems**
 
+🤖 Exploring **Generative AI, RAG, LangChain, LangGraph & Multi-Agent Systems**
 
-## 🛠️ Technical Skills
+🧩 Solved **450+ DSA problems**
 
-### Programming Languages
-C • C++ • Python • JavaScript • TypeScript • SQL
+☁️ Interested in **Cloud, DevOps, Microservices & System Design**
 
-### Frontend Development
-HTML5 • CSS3 • React.js • Tailwind CSS • Responsive Web Design
-
-### Backend Development
-Node.js • Express.js • REST APIs • Mongoose • JWT • Socket.io • Microservices
-
-### AI/ML & GenAI
-LangGraph • LangChain • RAG • Multi-Agent Systems • AI Tool Calling • Qdrant Vector DB
-
-### Databases & Caching
-MongoDB • SQL • MySQL • Redis • Database Design • CRUD Operations
-
-### Cloud & DevOps
-AWS (EC2, S3) • Docker • CI/CD • Git • GitHub • Render
-
-### Other Tools
-VS Code • Postman • Cloudinary • Multer • Razorpay API • Firebase • Nodemailer • Figma
-
-### CS Fundamentals
-Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+🎯 Currently seeking **Software Engineering / Full-Stack Development opportunities**
 
 ---
 
-## 🚀 Featured Projects
+---
+## 🛠️ Tech Stack
 
-### 🤖 Tarwix — Multi-Agent AI Platform
+### 💻 Programming Languages
 
-Production-ready multi-agent AI platform built using a microservices architecture.
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
+</p>
 
-**Tech Stack:** MERN • Microservices • LangGraph • LangChain • RAG • Qdrant • Redis • Docker • AWS • CI/CD
+**C • C++ • Python • JavaScript (ES6+) • TypeScript • SQL**
 
-- 🤖 Built a production-ready multi-agent AI platform using LangGraph and LangChain
-- 🧠 Delivered 6+ AI capabilities including chat, code/PDF/PPT generation, image generation and web search
-- 🔎 Designed a RAG pipeline using Qdrant Vector DB and Redis caching
-- ⚡ Reduced repeated query response time by 40%+
-- 🔐 Secured 8+ REST APIs using JWT authentication
-- 🚀 Deployed on AWS with containerization and automated CI/CD pipelines
-- 🔄 Enabled zero-downtime releases and real-time AI responses
+### 🎨 Frontend Development
 
-🔗 [GitHub Repository](https://github.com/nishuiiitbh)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+**HTML5 • CSS3 • React.js • Tailwind CSS • Responsive Web Design • REST API Integration**
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Node.js • Express.js • RESTful APIs • Mongoose • JWT • Socket.io • Microservices • Authentication & Authorization**
+
+### 🤖 AI / ML & Generative AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**LangGraph • LangChain • RAG • Multi-Agent Systems • AI Tool Calling • Qdrant Vector DB**
+
+### 🗄️ Databases & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+**MongoDB • SQL • MySQL • PostgreSQL • Redis • Database Design • CRUD Operations**
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+**AWS EC2 • AWS S3 • Docker • CI/CD Pipelines • Git • GitHub • Render**
+
+### 🔧 Tools & Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,firebase,figma" />
+</p>
+
+**VS Code • Postman • Cloudinary • Multer • Razorpay API • Firebase • Nodemailer • Figma**
 
 ---
 
-### 💬 Talkify — Real-Time Chat Application
+## 📚 Core CS
 
-Full-stack real-time chat application designed for fast and secure communication.
+<p align="center">
+<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-Database%20Management-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OS-Operating%20Systems-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CN-Computer%20Networks-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-Scalable%20Systems-yellow?style=for-the-badge" />
+</p>
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Socket.io • Redux Toolkit • Cloudinary
+**Data Structures & Algorithms • Object-Oriented Programming • Database Management Systems • Operating Systems • Computer Networks • System Design**
 
-- ⚡ Developed a full-stack real-time chat application with 10+ features
-- 💬 Implemented one-to-one messaging, user search, online presence and message deletion
-- 🔌 Engineered 10+ REST APIs following SDLC practices
-- 🧪 Validated APIs with 15+ Postman test cases achieving 95%+ test coverage
-- 🔐 Implemented secure JWT authentication with HTTP-only cookies and protected routes
-- ⚡ Built low-latency real-time messaging with Socket.io under 200ms delivery latency
+**Data Structures & Algorithms • Object-Oriented Programming • Database Management Systems • Operating Systems • Computer Networks • System Design**
 
-🔗 [GitHub Repository](https://github.com/nishuiiitbh/Talkify)
+---
+## 🌐 Systems I've Built
+
+| Project | Description | Tech |
+|---|---|---|
+| 🤖 **Tarwix** | Multi-Agent AI Platform | MERN • LangGraph • LangChain • RAG • Qdrant |
+| 💬 **Talkify** | Real-Time Chat Application | MERN • Socket.io • Redux |
+| 🛍️ **Zenvia** | AI-Powered E-Commerce Platform | MERN • Firebase • Razorpay |
 
 ---
 
-### 🛍️ Zenvia — AI-Powered E-Commerce Platform
+## 🤖 Tarwix — Multi-Agent AI Platform
 
-Full-stack e-commerce platform with dedicated customer and admin panels.
+> Production-ready AI platform built with a microservices architecture.
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Firebase • Razorpay
+**Tech:** `MERN` `Microservices` `LangGraph` `LangChain` `RAG` `Qdrant` `Redis` `Docker` `AWS`
 
-- 🛒 Built a full-stack e-commerce platform with product catalog, cart, checkout and order management
-- 👨‍💼 Developed an admin dashboard for inventory and order management
-- ⚡ Reduced manual inventory update time by 40%
-- 💳 Integrated Razorpay with 99%+ payment success rate
+- 🚀 Built **6+ AI capabilities** including chat, code/PDF/PPT generation, image generation and web search
+- 🧠 Designed a **RAG pipeline** using Qdrant Vector DB
+- ⚡ Used Redis caching to reduce repeated query response time by **40%**
+- 🔐 Secured **8+ REST APIs** using JWT authentication
+- 🐳 Containerized services using Docker
+- ☁️ Deployed on AWS with automated CI/CD pipelines
+- 🔄 Enabled streaming AI responses for real-time interaction
+
+---
+
+## 💬 Talkify — Real-Time Chat Application
+
+> Full-stack real-time communication platform built using MERN and Socket.io.
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Redux Toolkit` `Cloudinary`
+
+- 💬 Built **10+ features** including messaging, user search and online presence
+- ⚡ Implemented low-latency real-time messaging using Socket.io
+- 🔌 Developed **10+ RESTful APIs**
+- 🧪 Tested APIs with **15+ Postman test cases**
+- 📊 Achieved **95%+ test coverage**
+- 🔐 Implemented JWT authentication with HTTP-only cookies
+- 🛡️ Added protected routes and secure authorization
+
+🔗 [View Repository](https://github.com/nishuiiitbh/Talkify)
+
+---
+
+## 🛍️ Zenvia — AI-Powered E-Commerce Platform
+
+> Full-stack e-commerce platform with dedicated customer and admin panels.
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Firebase` `Razorpay`
+
+- 🛒 Built product catalog, cart, checkout and order management
+- 👨‍💼 Developed dedicated admin dashboard for inventory and orders
+- ⚡ Reduced manual inventory update time by **40%**
+- 💳 Integrated Razorpay payment gateway
 - 🤖 Implemented AI-powered product recommendations
-- 📱 Built a responsive UI across 3+ device breakpoints
+- 📱 Built responsive UI across **3+ device breakpoints**
 - ☁️ Deployed the application for production use
-- 🖼️ Integrated Cloudinary for product image storage
 
-🔗 [Live Website](https://zenvia-frontend.onrender.com)
+### 🔗 Project Links
 
-🔗 [Admin Panel](https://zenvia-admin.onrender.com)
+**Live Application:**  
+https://zenvia-frontend.onrender.com
 
-🔗 [Backend API](https://zenvia-backend-c2nt.onrender.com)
+**Admin Panel:**  
+https://zenvia-admin.onrender.com
 
-🔗 [GitHub Repository](https://github.com/nishuiiitbh/Zenvia)
+**Backend:**  
+https://zenvia-backend-c2nt.onrender.com
+
+**Repository:**  
+https://github.com/nishuiiitbh/Zenvia
 
 ---
 
 ## 🧠 Problem Solving
 
-- 💡 450+ DSA problems solved
-- 🧩 Strong foundation in Data Structures and Algorithms
-- 💻 Regular problem solving across competitive programming platforms
-- 📚 Strong understanding of OOP, DBMS, Operating Systems and Computer Networks
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-450%2B%20Problems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Strong-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-Active-orange?style=for-the-badge" />
+</p>
+
+Strong foundation in:
+
+**Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks**
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 
-- 🏅 ServiceNow Certified System Administrator (CSA)
-- 🏅 ServiceNow Certified Application Developer (CAD)
+🏅 **ServiceNow Certified System Administrator (CSA)** — 2026
+
+🏅 **ServiceNow Certified Application Developer (CAD)** — 2026
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishuiiitbh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishuiiitbh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishuiiitbh&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishuiiitbh&theme=tokyonight" />
-</p>
-
----
-
----
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:kumarinishuiiitbh@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/nishu-kumari-360144300/">LinkedIn</a> •
-  <a href="https://github.com/nishuiiitbh">GitHub</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuiiitbh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">✨ Build • Learn • Solve • Deploy ✨</h3>
+## 📈 What I'm Currently Exploring
+
+```text
+▸ Scalable Backend Architecture
+▸ Microservices & Distributed Systems
+▸ Generative AI & Multi-Agent Systems
+▸ RAG & Vector Databases
+▸ Cloud Deployment & CI/CD
+▸ Advanced Data Structures & Algorithms
