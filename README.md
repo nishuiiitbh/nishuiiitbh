@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Developer • MERN • AI/ML • DSA</h3>
 
 <p align="center">
-  B.Tech ECE @ IIIT Bhagalpur | Building scalable full-stack & AI-powered applications
+  B.Tech  @ IIIT Bhagalpur | Building scalable full-stack & AI-powered applications
 </p>
 
 <p align="center">
